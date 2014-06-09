@@ -1,4 +1,4 @@
-## Code for Okinawa
+# Code for Okinawa
 
 Tatsuro TAMASHIRO
 
@@ -13,8 +13,10 @@ Tatsuro TAMASHIRO
 - タマシロタツロウ
 - 琉球大学 観光産業学部 産業経営学科 2012年卒
 - 元大角ゼミ
-- ギークハウス沖縄
+- [ギークハウス沖縄](http://text.geeoki.com)
 - 株式会社ミノタケ
+- [Twitter](https://twitter.com/kimihito_)
+- [Facebook](https://facebook.com/tatsuro.tamashiro)
 
 --
 
@@ -49,3 +51,9 @@ Tatsuro TAMASHIRO
 
 ## 本題に入るその前に
 
+### 1つ質問が…
+
+--
+
+## 将来、沖縄に貢献したい?
+具体的にどんな風に??
