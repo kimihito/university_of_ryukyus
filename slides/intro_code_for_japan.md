@@ -64,7 +64,7 @@
 
 --
 
-![](/slides/img/whole_cov_ja.png)
+![](./slides/img/whole_cov_ja.png)
 
 <small>引用:[総務省｜オープンデータ戦略の推進｜総務省の取組](http://www.soumu.go.jp/menu_seisaku/ictseisaku/ictriyou/opendata/opendata03.html#p3-1)</small>
 
