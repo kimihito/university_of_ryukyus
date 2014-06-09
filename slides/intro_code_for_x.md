@@ -17,17 +17,15 @@ TEDにビデオが載ってます。
 
 	- [HONOLULU ANSWERS](http://answers.honolulu.gov/)
 
-		- ハワイ州のホノルルで提供されている免許の取得方法などFAQをシンプルかつ的確に提供するサービス。
+	ハワイ州のホノルルで提供されている免許の取得方法などFAQをシンプルかつ的確に提供するサービス。
 
 	- [The Daily Brief](http://dailybrief.311labs.org/boston)
 
-		- 市民が見つけた落書きやゴミなどの問題を投稿できるサービス
+	市民が見つけた落書きやゴミなどの問題を投稿できるサービス
+
 
 
 - その他は[こちら](http://codeforamerica.org/apps/)から見れます。
-
-- TODO: アプリの説明をいくつか。
-
 
 --
 
@@ -37,20 +35,6 @@ TEDにビデオが載ってます。
 
 - [Code for America](http://codeforamerica.org/)
 
-
 --
 
-## 日本でも動きが出てきた
-
-- http://hack4.jp/
-
-	- 東日本大震災に対し、自分たちの開発スキルを役立てたい開発者を中心としたコミュニティ
-
-- http://code4japan.org/
-	- 日本で15ヶ所。
-		- http://code4japan.org/brigade
-
-	- 実際何してる？
-
-		- ハッカソン
-		- アイディアソン
+## 質問ありますか?
